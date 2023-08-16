@@ -27,6 +27,8 @@ Reinforcement Learning Learning
 | Python  | 3.10     |
 | Pytorch | 2.0.1+cu118  |
 
+Cuda12.1の場合でもPytorchのバージョンは`2.0.1+cu118`でいいみたい
+
 
 
 **インストールコマンド**
